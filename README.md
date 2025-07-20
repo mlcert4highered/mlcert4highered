@@ -1,4 +1,4 @@
-### Data Analytics &Machine Learning Book – Public Repository
+### Applied Data Analytics For Higher Education - Public Repository
 
 Welcome to the official GitHub account supporting our book Applied Data Analytics For Higher Education. This repository provides open access to the data assets and output tables referenced throughout the book.
 
