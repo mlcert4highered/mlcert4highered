@@ -1,21 +1,49 @@
-### Applied Data Analytics For Higher Education - Public Repository
+# 📘 Higher Education Analytics Series – Course Data Repository
 
-Welcome to the official GitHub account supporting our book Applied Data Analytics For Higher Education. This repository provides open access to the data assets and output tables referenced throughout the book.
+Welcome to the official GitHub repository supporting our **Higher Education Analytics** course and book series. This open-source hub provides access to the **real-world datasets**, **output tables**, and **code notebooks** used in the books.
 
-Whether you're reading the book, learning ML, or exploring real-world datasets, this space offers downloadable and viewable content to enhance your understanding.
+> 📚 Book Series:
+> - **Book 1**: *Applied Data Analytics for Higher Education*  
+> - **Book 2**: *Machine Learning in Higher Education with Python and Scikit-Learn*  
 
 ---
 
-## 📚 About the Book
+## 🚀 About the Course
 
-Our book bridges theory and practice in data science, covering:
+The **Higher Education Analytics** course is a hands-on, data-driven curriculum designed for:
+- Institutional researchers and analysts
+- Higher ed professionals transitioning to data science
+- Students exploring applied analytics in education
 
-- 🧠 **Machine Learning** – supervised, unsupervised, and ensemble methods  
-- 📊 **Data Analytics** – exploratory data analysis, visualization, preprocessing  
-- 🛠️ **Practical Projects** – hands-on notebooks and case studies  
-- 📈 **Interpretation** – model explainability and output analysis  
+This course bridges theory and practice through:
+- Real datasets from colleges and universities
+- Code notebooks in Python (JupyterLab)
+- Machine learning workflows with Scikit-learn
+- Student lifecycle modeling: from application to graduation
 
-Each chapter introduces concepts with real datasets, and we’ve made those datasets and results available here.
+---
+
+## 🧠 Book Highlights
+
+### Book 1: *Applied Data Analytics for Higher Education*
+> “The Hands-On Guide: Real Data, Real Code, Real Impact”
+
+Covers:
+- Student lifecycle and institutional data
+- Preprocessing and feature engineering with Pandas
+- Higher ed metrics (e.g., enrollment, GPA, graduation rates)
+- Data visualization with Plotly and Matplotlib
+- Building curated datasets across the student journey
+
+### Book 2: *Machine Learning in Higher Education*
+> “From Logistic Regression to Lasso and Trees — in Higher Ed Context”
+
+Covers:
+- ML foundations and Scikit-learn workflows
+- Predictive modeling: GPA, dropout risk, graduation success
+- Metrics: precision, recall, R², AUC
+- Hyperparameter tuning and model validation
+- Ethical AI and real impact in student success initiatives
 
 ---
 
@@ -26,8 +54,6 @@ This GitHub account hosts multiple repositories and folders, organized to align 
 ### 🔸 **`/Original Data/`**
 Contains raw datasets used in chapters. These include:
 - Student academic performance
-- Ecommerce and consumer behavior
-- Health and public datasets
 
 ### 🔸 **`/Output Tables/`**
 Pre-generated data tables and model outputs from the book’s projects:
