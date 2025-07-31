@@ -1,6 +1,6 @@
 # 📘 Higher Education Analytics Series – Course Data Repository
 
-Welcome to the official GitHub repository supporting our **Higher Education Analytics** course and book series. This open-source hub provides access to the **real-world datasets**, **output tables**, and **code notebooks** used in the books.
+Welcome to the official GitHub repository supporting our **Higher Education Analytics** courses and E-book series. This open-source hub provides access to the **real-world datasets**, **output tables**, and **code notebooks** used in the books.
 
 > 📚 Book Series:
 > - **Book 1**: *Applied Data Analytics for Higher Education*  
