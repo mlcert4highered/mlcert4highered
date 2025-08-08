@@ -91,9 +91,8 @@ All datasets and outputs are provided under an open license (see `LICENSE.md`). 
 ## 🔗 Stay Connected
 
 📘 Book Title: Applied Data Analytics For Higher Education  
-📩 Contact: @website  
-🔗 More: @socialmedia links
-
+📩 Contact: mlcert@csulb.edu
+🔗 Course website: https://www.cpace.csulb.edu/courses/applied-data-analytics-for-higher-education
 ---
 
 Thank you for being part of our learning journey. Happy exploring!
