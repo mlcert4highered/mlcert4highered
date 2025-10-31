@@ -4,22 +4,7 @@ Welcome to the official GitHub repository supporting our **Higher Education Anal
 
 > 📚 Book Series:
 > - **Book 1**: *Applied Data Analytics for Higher Education*  
-> - **Book 2**: *Machine Learning in Higher Education with Python and Scikit-Learn*  
-
----
-
-## 🚀 About the Course
-
-The **Higher Education Analytics** course is a hands-on, data-driven curriculum designed for:
-- Institutional researchers and analysts
-- Higher ed professionals transitioning to data science
-- Students exploring applied analytics in education
-
-This course bridges theory and practice through:
-- Real datasets from colleges and universities
-- Code notebooks in Python (JupyterLab)
-- Machine learning workflows with Scikit-learn
-- Student lifecycle modeling: from application to graduation
+> - **Book 2**: *Machine Learning in Higher Education with Python and Scikit-Learn*
 
 ---
 
