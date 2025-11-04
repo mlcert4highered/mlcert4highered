@@ -36,10 +36,6 @@ Covers:
 
 This GitHub account hosts multiple repositories and folders, organized to align with book content:
 
-### 🔸 **`/Original Data/`**
-Contains raw datasets used in chapters. These include:
-- Student academic performance
-
 ### 🔸 **`/Output Tables/`**
 Pre-generated data tables and model outputs from the book’s projects:
 - Classification model metrics  
