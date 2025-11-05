@@ -4,7 +4,7 @@ Welcome to the official GitHub repository supporting our **Higher Education Anal
 
 > 📚 Book Series:
 > - **Book 1**: *Applied Data Analytics for Higher Education*  
-> - **Book 2**: *Machine Learning in Higher Education with Python and Scikit-Learn*
+> - **Book 2**: *Applied Machine Learning for Higher Education*
 
 ---
 
@@ -20,7 +20,7 @@ Covers:
 - Data visualization with Plotly and Matplotlib
 - Building curated datasets across the student journey
 
-### Book 2: *Machine Learning in Higher Education*
+### Book 2: *Applied Machine Learning for Higher Education*
 > “From Logistic Regression to Lasso and Trees — in Higher Ed Context”
 
 Covers:
